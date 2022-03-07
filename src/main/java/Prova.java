@@ -6,7 +6,7 @@ public class Prova {
     public static void main(String[] args) {
         Prova test = new Prova();
 
-        System.out.println(test.x + test.y);
+        System.out.println(test.x * test.y);
 
 
     }
